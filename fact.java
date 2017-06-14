@@ -7,10 +7,11 @@ public static void main(String args[])
 Scanner s=new Scanner(System.in);
 int n;
 n=s.nextInt();
-int factorial;
-for(int i=(n-1);i>0;i--)
+int factorial=n;
+for(int i=(n-1);i>1;i--)
 {
-System.out.println("factorial");
+  factrual=factorial*i;
 }
+System.out.println("factorial");
 }
 }
