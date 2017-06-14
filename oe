@@ -1,0 +1,16 @@
+import java.io.*;
+import java.util.*;
+class oe
+{
+public satic void main(String args[])
+{
+Scanner s=nw Scanner(System.in)
+int n;
+n=s.nextInt();
+if(n%2==0)
+System.out.println("Even");
+else
+if(n%2!=0)
+System.out.println("Odd");
+}
+}
