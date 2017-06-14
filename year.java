@@ -14,6 +14,7 @@ System.out.println("LEAF");
 else
 if(n%4!=0)
 {
-System.out.println(("NOT LEAF");
+System.out.println("NOT LEAF");
 }
 }
+                   }
